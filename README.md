@@ -15,9 +15,3 @@ Cocok digunakan oleh pelaku UMKM pengolahan pangan agar dapat mengetahui estimas
 - ✅ Branding dengan logo **Rumah Retort Bersama (R2B)**
 
 ---
-
-## 🛠️ Cara Menjalankan
-### 1. Clone repositori ini
-```bash
-git clone https://github.com/r2bapp/Tools-HPP-JasaRetort.git
-cd Tools-HPP-JasaRetort
